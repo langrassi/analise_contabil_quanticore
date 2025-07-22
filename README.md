@@ -10,5 +10,11 @@
   - **MySQL** - gerenciamento da base de dados;
   - **Power BI** - confecção do dashboard interativo.
 
+### Arquivos:
+  - [Diagrama](https://github.com/langrassi/analise_contabil_quanticore/blob/main/diagrama_balanco_patrimonial.jpg)
+  - [Criação das tabelas](https://github.com/langrassi/analise_contabil_quanticore/blob/main/Cria%C3%A7%C3%A3o%20de%20tabelas%20do%20balanco%20patrimonial.sql)
+  - [Inserção dos dados](https://github.com/langrassi/analise_contabil_quanticore/blob/main/Inser%C3%A7%C3%A3o%20de%20dados%20do%20balanco%20patrimonial.sql)
+  - [Dashboard](https://github.com/langrassi/analise_contabil_quanticore/blob/main/An%C3%A1lise%20de%20Balan%C3%A7o%20Patrimonial.pbix)
+
 ### Descobertas e conclusão:
   
